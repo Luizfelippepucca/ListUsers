@@ -1,16 +1,23 @@
-# json
+# List Users
 
-A new Flutter project.
+Para rodar o projeto :
+instale o flutter em sua maquina.
+Clone o repositório.
+E rode Flutter run.
 
-## Getting Started
+## Projeto criado para praticar:
 
-This project is a starting point for a Flutter application.
+1. statelessWidget
+2. stateFullWidget
+3. rotas e rotas nomeadas
+4. passagem de argumentos por rotas nomeadas
+5. passagem de parametros para  classe.
+6. Estrutura de Layout
+7. Estilizações
+8. Formulários
+9. Exibição de listar com ListView Builder.
+10. Consumo de dados vindo de uma api para listar usaurios.
+11. Criação de factory para recebermos os dados e reternar um objeto json.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![quizImage](https://github.com/Luizfelippepucca/quizFlutter/assets/52139246/9e5e4b30-4dc7-4109-bedd-b4d88db8f57f)
