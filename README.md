@@ -16,7 +16,7 @@ E rode Flutter run.
 8. Formulários
 9. Exibição de listar com ListView Builder.
 10. Consumo de dados vindo de uma api para listar usaurios.
-11. Criação de factory para recebermos os dados e reternar um objeto json.
+11. Criação de factory para recebermos os dados e retornar um objeto json.
 12. Validação de inputs
 13. Bottom navigator bar.
 14. Navegação através da IndexStack.
