@@ -5,7 +5,7 @@ instale o flutter em sua maquina.
 Clone o repositório.
 E rode Flutter run.
 
-##Descricao
+## Descricao
 Neste projeto podemos: Fazer login e ir para uma tela de listagem de usuários. Quando clicamos em um card de usaurio vamos para á pagina de detalhes daquele usuario.
 Tambem podemos mudar as telas através do bottom Navigator bar.
 ## Projeto criado para praticar:
