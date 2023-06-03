@@ -18,6 +18,11 @@ E rode Flutter run.
 9. Exibição de listar com ListView Builder.
 10. Consumo de dados vindo de uma api para listar usaurios.
 11. Criação de factory para recebermos os dados e reternar um objeto json.
+12. Validação de inputs
+13. Bottom navigator bar.
+14. Navegação através da IndexStack.
+15. criação de model.
 
 
 ![loginFlutter](https://github.com/Luizfelippepucca/ListUsers/assets/52139246/9bd26d73-d0ae-4f88-99bf-21358241c403)
+![UsersFlutter](https://github.com/Luizfelippepucca/ListUsers/assets/52139246/0210fe98-e043-4da1-953f-0c3a68ae5667)
