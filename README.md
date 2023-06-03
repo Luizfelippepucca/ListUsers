@@ -7,11 +7,10 @@ E rode Flutter run.
 
 ## Projeto criado para praticar:
 
-1. statelessWidget
-2. stateFullWidget
-3. rotas e rotas nomeadas
-4. passagem de argumentos por rotas nomeadas
-5. passagem de parametros para  classe.
+1. StatelessWidget
+2. StateFullWidget
+3. Navegação através de rotas
+5. Passagem de parametros para  classe.
 6. Estrutura de Layout
 7. Estilizações
 8. Formulários
